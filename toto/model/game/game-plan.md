@@ -1,0 +1,15 @@
+## Game:
+1. Game-Detail
+2. Game-Policy
+3. Game-Token
+4. Game-Owner
+5. Game-Coupon
+6. Game-Result
+## Security:
+1. Authentication-Point-Cuts
+2. Authorization-Point-Cut
+3. Two-Point-Checksum
+## Signin
+1. Direct-Sign-In
+2. Third-Party-Sign-In
+3. Sign-out
